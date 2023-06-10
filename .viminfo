@@ -10,9 +10,14 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1686374825,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -23,16 +28,122 @@
 # Registers:
 
 # File marks:
-'0  2  20  ~/zero_day/README.md
-|4,48,2,20,1686372326,"~/zero_day/README.md"
+'0  1  0  ~/.ssh/id_ed25519.pub
+|4,48,1,0,1686374968,"~/.ssh/id_ed25519.pub"
+'1  1  0  ~/.ssh/id_ed25519
+|4,49,1,0,1686374905,"~/.ssh/id_ed25519"
+'2  8  0  ~/.ssh
+|4,50,8,0,1686374840,"~/.ssh"
+'3  12  0  ~/.ssh
+|4,51,12,0,1686374623,"~/.ssh"
+'4  2  20  ~/zero_day/README.md
+|4,52,2,20,1686372326,"~/zero_day/README.md"
 
 # Jumplist (newest first):
+-'  1  0  ~/.ssh/id_ed25519.pub
+|4,39,1,0,1686374968,"~/.ssh/id_ed25519.pub"
+-'  1  0  ~/.ssh/id_ed25519
+|4,39,1,0,1686374905,"~/.ssh/id_ed25519"
+-'  1  0  ~/.ssh/id_ed25519
+|4,39,1,0,1686374905,"~/.ssh/id_ed25519"
+-'  8  0  ~/.ssh
+|4,39,8,0,1686374840,"~/.ssh"
+-'  8  0  ~/.ssh
+|4,39,8,0,1686374840,"~/.ssh"
+-'  8  0  ~/.ssh
+|4,39,8,0,1686374840,"~/.ssh"
+-'  8  0  ~/.ssh
+|4,39,8,0,1686374840,"~/.ssh"
+-'  12  0  ~/.ssh
+|4,39,12,0,1686374623,"~/.ssh"
+-'  12  0  ~/.ssh
+|4,39,12,0,1686374623,"~/.ssh"
+-'  12  0  ~/.ssh
+|4,39,12,0,1686374623,"~/.ssh"
+-'  12  0  ~/.ssh
+|4,39,12,0,1686374623,"~/.ssh"
+-'  1  0  ~/.ssh
+|4,39,1,0,1686374608,"~/.ssh"
+-'  1  0  ~/.ssh
+|4,39,1,0,1686374608,"~/.ssh"
+-'  1  0  ~/.ssh
+|4,39,1,0,1686374608,"~/.ssh"
+-'  1  0  ~/.ssh
+|4,39,1,0,1686374608,"~/.ssh"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
+-'  2  20  ~/zero_day/README.md
+|4,39,2,20,1686372326,"~/zero_day/README.md"
 -'  2  20  ~/zero_day/README.md
 |4,39,2,20,1686372326,"~/zero_day/README.md"
 -'  1  0  ~/zero_day/README.md
 |4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1686372239,"~/zero_day/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/id_ed25519.pub
+	*	1686374919	0
+	"	1	0
+
+> ~/.ssh/id_ed25519
+	*	1686374903	0
+	"	1	0
 
 > ~/zero_day/README.md
 	*	1686372325	0
