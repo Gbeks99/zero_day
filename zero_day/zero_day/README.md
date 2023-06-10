@@ -1,1 +1,1 @@
-*Emphasize* __emphasize__
+*Emphasize*
